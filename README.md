@@ -36,7 +36,7 @@ No additional dependencies required - uses only Python standard library.
 
 ```bash
 # Clone or download the script
-python password_analyzer.py
+PasswordStrengthChecker.py
 ```
 
 ## Usage
@@ -44,7 +44,7 @@ python password_analyzer.py
 Run the script and enter a password when prompted:
 
 ```bash
-python password_analyzer.py
+PasswordStrengthChecker.py
 ```
 
 ### Example Output
